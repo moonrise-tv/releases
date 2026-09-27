@@ -1,22 +1,20 @@
 {
-  "versionCode": 50,
+  "versionCode": 51,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v50/Moonrise-50.apk",
-  "sha256": "28f8d80320eba08a60949c01ccf52a6b20e84603cacab9f8bb208aa36f4bb8cc",
-  "size": 4863068,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v51/Moonrise-51.apk",
+  "sha256": "f70122bb5f63c83b37fb3585ecef643d3aea045d3f9559ca75a4b6c0ee18c052",
+  "size": 4863580,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Açılışta ya da boşta kilitte çıkan \"Kim izliyor?\" ekranı artık Geri ile atlanamıyor; önce yönetici profiline PIN sorulmadan dönülebiliyordu.",
-      "Çocuk profilinden yöneticiye geçerken PIN iki kez soruluyordu; artık bir kez."
+      "Gizleme yönetici tarafında: yönetici profilinde gezinirken gizlenmiş film, dizi ve kanallarda üstü çizili göz işareti görünür; Detay'da ve menülerde \"Gizli: Tuna…\" yazar. Tüm gizlenenler Ayarlar → Ebeveyn kontrolleri → Gizlenen içerik'te, hangi profilden gizli olduklarıyla birlikte listelenir."
     ],
     "en": [
-      "The Who's watching? screen at startup or after the idle lock can no longer be skipped with Back; before, it could return to the admin profile without the PIN.",
-      "Switching from a kids profile to the admin asked for the PIN twice; now once."
+      "Hiding is managed from the admin side: while browsing the admin profile, hidden movies, series and channels show a crossed-out eye; Details and menus say \"Hidden: Tuna…\". Everything hidden is listed, with its profiles, in Settings → Parental controls → Hidden content."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v50/Moonrise-50.dm",
-  "dmSha256": "c08d746f83e2629e46178fcfdba5f55123c89cbcd9edc5703e781e0e42bdafeb"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v51/Moonrise-51.dm",
+  "dmSha256": "a553e2f4183b6f2d5e40e3b07bf1b2d4d8f01d35c32358db517bf8268939f7de"
 }
