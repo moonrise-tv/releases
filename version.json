@@ -1,26 +1,22 @@
 {
-  "versionCode": 53,
+  "versionCode": 54,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v53/Moonrise-53.apk",
-  "sha256": "2eca8e07ab3d0396588b0ba9a46059c7449ebd824ea66fa4efa6c9f3acf09760",
-  "size": 4887024,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v54/Moonrise-54.apk",
+  "sha256": "06f00245bcb93726ae815eb172658384b9707e0cda257f6c85b7cca3ac56d24d",
+  "size": 4889076,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Kategoriyi toptan gizleme: yönetici profilinde canlı kategori satırına ya da film/dizi raf başlığına uzun bas → Profil erişimi… Gizli kategorinin içinden tek bir içeriğe yine izin verilebilir.",
-      "Oynatıcının kanal listesinde \"İzin verilenler\" grubu var; izinli kanal bu grupla açılır.",
-      "Tüm kategorileri kapalı çocuk profilinde izinli içerik rafı artık görünür.",
-      "Yetişkin içerik gizleme açıkken yetişkin içeriğe izin verilemediği pencerede açıkça yazıyor."
+      "Her kategoriye erişim: Ayarlar → Ebeveyn kontrolleri → Gizlenen ve izin verilen içerik → \"+ Kategori gizle…\" ile Canlı, Film ya da Dizi'nin tüm kategorileri listelenir. Film/dizi kategori ekranında ve oynatıcının kanal listesinde de \"Profil erişimi…\" var.",
+      "Yönetici profilinde gizlenmiş kategoriler ve içlerindeki içerik göz işaretiyle görünür; izin verilenler turkuaz onayla."
     ],
     "en": [
-      "Hide a whole category: in the admin profile, long-press a live category or a movie/series row title → Profile access… A single item inside a hidden category can still be allowed.",
-      "The player's channel list has an \"Allowed\" group; an allowed channel opens in it.",
-      "A kids profile with every category closed now shows the Allowed row.",
-      "The access window says clearly that adult content can't be allowed while adult hiding is on."
+      "Reach every category: Settings → Parental controls → Hidden and allowed content → \"+ Hide a category…\" lists all Live, Movie and Series categories. The movie/series category screen and the player's channel list also have \"Profile access…\".",
+      "In the admin profile, hidden categories and their content show the eye mark; allowed items show a teal check."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v53/Moonrise-53.dm",
-  "dmSha256": "2a4d767da0aa7c2222b1297873bf66895d64285285a1898f863ec0d96a1004e2"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v54/Moonrise-54.dm",
+  "dmSha256": "e842ba802031d74cdcaddf6821a328d954c3f79866e88ece4d08648d31faa900"
 }
