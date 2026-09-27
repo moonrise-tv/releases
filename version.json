@@ -1,22 +1,24 @@
 {
-  "versionCode": 54,
+  "versionCode": 56,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v54/Moonrise-54.apk",
-  "sha256": "06f00245bcb93726ae815eb172658384b9707e0cda257f6c85b7cca3ac56d24d",
-  "size": 4889076,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v56/Moonrise-56.apk",
+  "sha256": "1d75556c4d4f28ff8920587b7ae2b3a4584ee8bfc1bb9b6c87ec06ea8c06e581",
+  "size": 4949060,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Her kategoriye erişim: Ayarlar → Ebeveyn kontrolleri → Gizlenen ve izin verilen içerik → \"+ Kategori gizle…\" ile Canlı, Film ya da Dizi'nin tüm kategorileri listelenir. Film/dizi kategori ekranında ve oynatıcının kanal listesinde de \"Profil erişimi…\" var.",
-      "Yönetici profilinde gizlenmiş kategoriler ve içlerindeki içerik göz işaretiyle görünür; izin verilenler turkuaz onayla."
+      "İçerik erişiminde Geri artık her seferinde bir üst ekrana döner (önce uygulamadan çıkabiliyordu).",
+      "Kategori gizle ekranında harf rayı o anki harfi gösterir ve kayar.",
+      "İçerik erişimi ekranı sığmayınca kaydırılır; alttaki ipuçları kesilmez."
     ],
     "en": [
-      "Reach every category: Settings → Parental controls → Hidden and allowed content → \"+ Hide a category…\" lists all Live, Movie and Series categories. The movie/series category screen and the player's channel list also have \"Profile access…\".",
-      "In the admin profile, hidden categories and their content show the eye mark; allowed items show a teal check."
+      "In Content access, Back now always goes up one screen (it could exit the app before).",
+      "On the hide-a-category screen the letter rail shows the current letter and scrolls.",
+      "The Content access screen scrolls when it doesn't fit; the hint bar is no longer cut."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v54/Moonrise-54.dm",
-  "dmSha256": "e842ba802031d74cdcaddf6821a328d954c3f79866e88ece4d08648d31faa900"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v56/Moonrise-56.dm",
+  "dmSha256": "d3ea61a5fbffbdcfc79b53b24d4d21fe46f348f599dee946b8b236cdb04b1311"
 }
