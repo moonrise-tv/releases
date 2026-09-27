@@ -1,20 +1,22 @@
 {
-  "versionCode": 48,
+  "versionCode": 50,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v48/Moonrise-48.apk",
-  "sha256": "666a2d9c466a330cfa2c0c87db0324346c385d5d752315d5fff414e8f036297d",
-  "size": 4838032,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v50/Moonrise-50.apk",
+  "sha256": "28f8d80320eba08a60949c01ccf52a6b20e84603cacab9f8bb208aa36f4bb8cc",
+  "size": 4863068,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Uzaktan güncellemenin ilk denemesi: bu sürüm TV'ye kablosuz geldi."
+      "Açılışta ya da boşta kilitte çıkan \"Kim izliyor?\" ekranı artık Geri ile atlanamıyor; önce yönetici profiline PIN sorulmadan dönülebiliyordu.",
+      "Çocuk profilinden yöneticiye geçerken PIN iki kez soruluyordu; artık bir kez."
     ],
     "en": [
-      "First remote-update test: this version reached the TV over the air."
+      "The Who's watching? screen at startup or after the idle lock can no longer be skipped with Back; before, it could return to the admin profile without the PIN.",
+      "Switching from a kids profile to the admin asked for the PIN twice; now once."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v48/Moonrise-48.dm",
-  "dmSha256": "a320f92d91050855364c513a507e4d12072a4badcc2fd97df979e4b808674a7a"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v50/Moonrise-50.dm",
+  "dmSha256": "c08d746f83e2629e46178fcfdba5f55123c89cbcd9edc5703e781e0e42bdafeb"
 }
