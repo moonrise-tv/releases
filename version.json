@@ -1,22 +1,22 @@
 {
-  "versionCode": 45,
+  "versionCode": 46,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v45/Moonrise-45.apk",
-  "sha256": "336a794935f3c41022a369a9228c6c407f64067cd05a0ba51af34c70188ed5a0",
-  "size": 4754216,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v46/Moonrise-46.apk",
+  "sha256": "7d95a3aaacb52338574d63d48281cf68fabf38cf3267d23c3e3aeb6c891fac00",
+  "size": 4837828,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Uzaktan güncelleme: yeni sürüm çıkınca TV'de \"Şimdi güncelle\" çıkar, Ayarlar → Hakkında'dan da denetlenir. İlk seferde Android, Moonrise'a güncelleme kurma izni ister.",
-      "Uygulama küçüldü (yaklaşık 20 MB'tan 5 MB'a) ve daha hızlı kurulur."
+      "Yeni logo: turkuaz oynat işaretinin arkasından doğan ay. TV ana ekranındaki banner, uygulama ikonu, ana ekranın sol üstü ve Ayarlar → Hakkında'da.",
+      "Bu sürüm uzaktan güncellemeyle geldi."
     ],
     "en": [
-      "Remote updates: when a new version is out the TV shows \"Update now\"; you can also check in Settings → About. The first time, Android asks you to allow Moonrise to install updates.",
-      "The app is much smaller (about 20 MB down to 5 MB) and installs faster."
+      "New logo: a moon rising behind a teal play mark. On the TV home banner, the app icon, the top left of the home screen and Settings → About.",
+      "This version arrived through remote update."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v45/Moonrise-45.dm",
-  "dmSha256": "b49423b2bac19e1b0ab677bc41e74f8ce8e3a6430da0a1f0900430f68394f1ae"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v46/Moonrise-46.dm",
+  "dmSha256": "07c082ad0d65adfe6bea570a8d91cc1e6738f1f72a09fcbf61ba9dc8abf10283"
 }
