@@ -1,22 +1,20 @@
 {
-  "versionCode": 46,
+  "versionCode": 48,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v46/Moonrise-46.apk",
-  "sha256": "7d95a3aaacb52338574d63d48281cf68fabf38cf3267d23c3e3aeb6c891fac00",
-  "size": 4837828,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v48/Moonrise-48.apk",
+  "sha256": "666a2d9c466a330cfa2c0c87db0324346c385d5d752315d5fff414e8f036297d",
+  "size": 4838032,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Yeni logo: turkuaz oynat işaretinin arkasından doğan ay. TV ana ekranındaki banner, uygulama ikonu, ana ekranın sol üstü ve Ayarlar → Hakkında'da.",
-      "Bu sürüm uzaktan güncellemeyle geldi."
+      "Uzaktan güncellemenin ilk denemesi: bu sürüm TV'ye kablosuz geldi."
     ],
     "en": [
-      "New logo: a moon rising behind a teal play mark. On the TV home banner, the app icon, the top left of the home screen and Settings → About.",
-      "This version arrived through remote update."
+      "First remote-update test: this version reached the TV over the air."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v46/Moonrise-46.dm",
-  "dmSha256": "07c082ad0d65adfe6bea570a8d91cc1e6738f1f72a09fcbf61ba9dc8abf10283"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v48/Moonrise-48.dm",
+  "dmSha256": "a320f92d91050855364c513a507e4d12072a4badcc2fd97df979e4b808674a7a"
 }
