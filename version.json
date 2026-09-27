@@ -1,22 +1,26 @@
 {
-  "versionCode": 52,
+  "versionCode": 53,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v52/Moonrise-52.apk",
-  "sha256": "5a05b4fdaee4fd4d8c2b1ed1c97b9e1d10e29fd4b9cec011359bd6474480061d",
-  "size": 4867996,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v53/Moonrise-53.apk",
+  "sha256": "2eca8e07ab3d0396588b0ba9a46059c7449ebd824ea66fa4efa6c9f3acf09760",
+  "size": 4887024,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "İstisna izni: çocuk profiline kapalı bir kategorideki tek bir film, dizi ya da kanala izin verebilirsin (Detay ya da menü → Profil erişimi…). Çocuk profilinde \"İzin verilenler\" rafında ve Canlı Yayın'da \"İzin verilenler\" grubunda görünür.",
-      "Kategori sayıları artık o profilde gizlenenleri düşüyor (ör. bir kanal gizliyse COCUK 25 yerine 24)."
+      "Kategoriyi toptan gizleme: yönetici profilinde canlı kategori satırına ya da film/dizi raf başlığına uzun bas → Profil erişimi… Gizli kategorinin içinden tek bir içeriğe yine izin verilebilir.",
+      "Oynatıcının kanal listesinde \"İzin verilenler\" grubu var; izinli kanal bu grupla açılır.",
+      "Tüm kategorileri kapalı çocuk profilinde izinli içerik rafı artık görünür.",
+      "Yetişkin içerik gizleme açıkken yetişkin içeriğe izin verilemediği pencerede açıkça yazıyor."
     ],
     "en": [
-      "Exceptions: allow a single movie, series or channel from a category that is closed to a kids profile (Details or menu → Profile access…). The kids profile finds it in the \"Allowed\" row and the \"Allowed\" group in Live TV.",
-      "Category counts now subtract what is hidden in that profile (e.g. KIDS shows 24 instead of 25 when one channel is hidden)."
+      "Hide a whole category: in the admin profile, long-press a live category or a movie/series row title → Profile access… A single item inside a hidden category can still be allowed.",
+      "The player's channel list has an \"Allowed\" group; an allowed channel opens in it.",
+      "A kids profile with every category closed now shows the Allowed row.",
+      "The access window says clearly that adult content can't be allowed while adult hiding is on."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v52/Moonrise-52.dm",
-  "dmSha256": "fed47edad0fa213eeb92c356107bf6856e9026d7455f71d8d8ed89baa5823923"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v53/Moonrise-53.dm",
+  "dmSha256": "2a4d767da0aa7c2222b1297873bf66895d64285285a1898f863ec0d96a1004e2"
 }
