@@ -1,0 +1,22 @@
+{
+  "versionCode": 45,
+  "versionName": "0.1.0",
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v45/Moonrise-45.apk",
+  "sha256": "336a794935f3c41022a369a9228c6c407f64067cd05a0ba51af34c70188ed5a0",
+  "size": 4754216,
+  "minSupported": 0,
+  "rollout": 100,
+  "notes": {
+    "tr": [
+      "Uzaktan güncelleme: yeni sürüm çıkınca TV'de \"Şimdi güncelle\" çıkar, Ayarlar → Hakkında'dan da denetlenir. İlk seferde Android, Moonrise'a güncelleme kurma izni ister.",
+      "Uygulama küçüldü (yaklaşık 20 MB'tan 5 MB'a) ve daha hızlı kurulur."
+    ],
+    "en": [
+      "Remote updates: when a new version is out the TV shows \"Update now\"; you can also check in Settings → About. The first time, Android asks you to allow Moonrise to install updates.",
+      "The app is much smaller (about 20 MB down to 5 MB) and installs faster."
+    ]
+  },
+  "manifestUrl": null,
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v45/Moonrise-45.dm",
+  "dmSha256": "b49423b2bac19e1b0ab677bc41e74f8ce8e3a6430da0a1f0900430f68394f1ae"
+}
