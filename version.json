@@ -1,20 +1,22 @@
 {
-  "versionCode": 57,
+  "versionCode": 58,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v57/Moonrise-57.apk",
-  "sha256": "23418a369d9f4be6da29054040b3065d3e8b8f8da95fcd213ee0739fc83c4f45",
-  "size": 4950628,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v58/Moonrise-58.apk",
+  "sha256": "c6f20a2288eadf577e6ee5a074bbb6721317b5009073fa9e8a6b9c8cb1fc6f97",
+  "size": 4951036,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "\"Güncellemeleri denetle\"ye basınca \"Denetleniyor…\" görünür; sonuçta \"Güncel · az önce denetlendi (saat)\" yazar, sonra da son denetimin zamanı görünür. Denetim başarısız olursa \"Denetlenemedi\" yazar."
+      "Arama her yerde Canlı Yayın aramasının tasarımıyla: soldaki harf ızgarası ve son arananlar, sağda Tümü/Canlı/Film/Dizi ve sonuçlar (ana ekran, Film ve Dizi \"Ara\").",
+      "Canlı Yayın'a geri dönünce son izlediğin kanalın kategorisi açık, odak ve önizleme o kanalda gelir."
     ],
     "en": [
-      "\"Check for updates\" now shows \"Checking…\", then \"Up to date · checked just now (time)\", and later the time of the last check. A failed check says \"Couldn't check\"."
+      "Search everywhere now looks like Live TV search: letter grid and recent searches on the left, All/Live/Movies/Series and results on the right (home, Movies and Series \"Search\").",
+      "Coming back to Live TV opens the last watched channel's category with focus and preview on that channel."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v57/Moonrise-57.dm",
-  "dmSha256": "0c8564f4e2918eecf29e2f93fd6c3a611266fef104d37a11ec08db7f2281cac3"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v58/Moonrise-58.dm",
+  "dmSha256": "37fd727f2fe27c2cd325d73d6028b06eb118f1843baae1faddbdb21e9ede45ec"
 }
