@@ -1,22 +1,20 @@
 {
-  "versionCode": 58,
+  "versionCode": 60,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v58/Moonrise-58.apk",
-  "sha256": "c6f20a2288eadf577e6ee5a074bbb6721317b5009073fa9e8a6b9c8cb1fc6f97",
-  "size": 4951036,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v60/Moonrise-60.apk",
+  "sha256": "96f2fc3a9919d8a6caa11c600a1a3f25f0b535a33286a52f9b00de3e208200e1",
+  "size": 4821156,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Arama her yerde Canlı Yayın aramasının tasarımıyla: soldaki harf ızgarası ve son arananlar, sağda Tümü/Canlı/Film/Dizi ve sonuçlar (ana ekran, Film ve Dizi \"Ara\").",
-      "Canlı Yayın'a geri dönünce son izlediğin kanalın kategorisi açık, odak ve önizleme o kanalda gelir."
+      "Kahraman avatarları yeniden çizildi: el çizimi tarzında, daha tanınır ve havalı (Tuna'nın onayıyla)."
     ],
     "en": [
-      "Search everywhere now looks like Live TV search: letter grid and recent searches on the left, All/Live/Movies/Series and results on the right (home, Movies and Series \"Search\").",
-      "Coming back to Live TV opens the last watched channel's category with focus and preview on that channel."
+      "Hero avatars redrawn: hand-drawn style, more recognizable and cooler."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v58/Moonrise-58.dm",
-  "dmSha256": "37fd727f2fe27c2cd325d73d6028b06eb118f1843baae1faddbdb21e9ede45ec"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v60/Moonrise-60.dm",
+  "dmSha256": "89dee574e2f8574179bd90661605661f7042e87c1ad68258967f94b993cafb3c"
 }
