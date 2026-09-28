@@ -1,24 +1,20 @@
 {
-  "versionCode": 56,
+  "versionCode": 57,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v56/Moonrise-56.apk",
-  "sha256": "1d75556c4d4f28ff8920587b7ae2b3a4584ee8bfc1bb9b6c87ec06ea8c06e581",
-  "size": 4949060,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v57/Moonrise-57.apk",
+  "sha256": "23418a369d9f4be6da29054040b3065d3e8b8f8da95fcd213ee0739fc83c4f45",
+  "size": 4950628,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "İçerik erişiminde Geri artık her seferinde bir üst ekrana döner (önce uygulamadan çıkabiliyordu).",
-      "Kategori gizle ekranında harf rayı o anki harfi gösterir ve kayar.",
-      "İçerik erişimi ekranı sığmayınca kaydırılır; alttaki ipuçları kesilmez."
+      "\"Güncellemeleri denetle\"ye basınca \"Denetleniyor…\" görünür; sonuçta \"Güncel · az önce denetlendi (saat)\" yazar, sonra da son denetimin zamanı görünür. Denetim başarısız olursa \"Denetlenemedi\" yazar."
     ],
     "en": [
-      "In Content access, Back now always goes up one screen (it could exit the app before).",
-      "On the hide-a-category screen the letter rail shows the current letter and scrolls.",
-      "The Content access screen scrolls when it doesn't fit; the hint bar is no longer cut."
+      "\"Check for updates\" now shows \"Checking…\", then \"Up to date · checked just now (time)\", and later the time of the last check. A failed check says \"Couldn't check\"."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v56/Moonrise-56.dm",
-  "dmSha256": "d3ea61a5fbffbdcfc79b53b24d4d21fe46f348f599dee946b8b236cdb04b1311"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v57/Moonrise-57.dm",
+  "dmSha256": "0c8564f4e2918eecf29e2f93fd6c3a611266fef104d37a11ec08db7f2281cac3"
 }
