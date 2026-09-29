@@ -1,20 +1,26 @@
 {
-  "versionCode": 62,
+  "versionCode": 63,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v62/Moonrise-62.apk",
-  "sha256": "87e01a1ef9d1ca2768f16b4668cf5c4c2d82bac8402a38d43fa3fcf42d648f7a",
-  "size": 4821424,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v63/Moonrise-63.apk",
+  "sha256": "8b216df1640a06ccc13f210898ec11b4f6d980e8dc6bf2336100a72af1a8250a",
+  "size": 4742784,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Android TV olmayan kutularda (Formuler vb.) ve telefon/tablette de uygulama listesinde görünür."
+      "Yeni Ayarlar: tam ekran, solda kategoriler (Profiller, Ebeveyn, Listeler, Oynatma, Genel, Hakkında), daha az yazı.",
+      "Profil yönetimi Netflix gibi tam ekran: \"Kim izliyor?\" → Profilleri yönet; avatar, ad, tür ve PIN tek ekranda.",
+      "Listelerim: birden çok liste, aynı anda biri kullanılır (\"Bunu kullan\"); liste her gün kendiliğinden güncellenir.",
+      "Ana ekranın sol altındaki Yenile kalktı; yalnız bir sorun olunca (liste güncellenemedi, abonelik bitiyor) uyarı çıkar."
     ],
     "en": [
-      "Also shows in the app list on non–Android TV boxes (Formuler etc.) and phones/tablets."
+      "New Settings: full screen with categories on the left (Profiles, Parental, Lists, Playback, General, About), far less text.",
+      "Netflix-style profile management: Who's watching? → Manage profiles; avatar, name, type and PIN on one screen.",
+      "My lists: several lists, one in use at a time (\"Use this\"); the list refreshes itself daily.",
+      "The Refresh block on the home screen is gone; a notice appears only when something is wrong (list couldn't refresh, subscription ending)."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v62/Moonrise-62.dm",
-  "dmSha256": "f3f2badb657be450db0e389d43dc02b92884f039087d26a5c719c50f9910ee45"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v63/Moonrise-63.dm",
+  "dmSha256": "b38d2d933884bda3927c55738946de3730c9cc288b86b6723abb27d3ebdd929c"
 }
