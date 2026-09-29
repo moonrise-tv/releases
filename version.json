@@ -1,20 +1,20 @@
 {
-  "versionCode": 61,
+  "versionCode": 62,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v61/Moonrise-61.apk",
-  "sha256": "b36981a0a5919fcd98b94acc25cf5fe53a369ce948be6f40ba022c0005be89f7",
-  "size": 4821268,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v62/Moonrise-62.apk",
+  "sha256": "87e01a1ef9d1ca2768f16b4668cf5c4c2d82bac8402a38d43fa3fcf42d648f7a",
+  "size": 4821424,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Yeni sürüm varken ana ekrandaki Ayarlar çarkının köşesinde ve Ayarlar → Hakkında satırında turkuaz nokta görünür; ana ekrana her dönüşte denetlenir."
+      "Android TV olmayan kutularda (Formuler vb.) ve telefon/tablette de uygulama listesinde görünür."
     ],
     "en": [
-      "When an update is available, a teal dot shows on the Settings gear on the home screen and on the Settings → About row; it's checked each time you return home."
+      "Also shows in the app list on non–Android TV boxes (Formuler etc.) and phones/tablets."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v61/Moonrise-61.dm",
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v62/Moonrise-62.dm",
   "dmSha256": "f3f2badb657be450db0e389d43dc02b92884f039087d26a5c719c50f9910ee45"
 }
