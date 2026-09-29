@@ -1,26 +1,20 @@
 {
-  "versionCode": 63,
+  "versionCode": 64,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v63/Moonrise-63.apk",
-  "sha256": "8b216df1640a06ccc13f210898ec11b4f6d980e8dc6bf2336100a72af1a8250a",
-  "size": 4742784,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v64/Moonrise-64.apk",
+  "sha256": "45f00b92bb572145aa1b3d7b5d4995dfaef864d3fe03a211ce28d133e2d3e144",
+  "size": 4727304,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Yeni Ayarlar: tam ekran, solda kategoriler (Profiller, Ebeveyn, Listeler, Oynatma, Genel, Hakkında), daha az yazı.",
-      "Profil yönetimi Netflix gibi tam ekran: \"Kim izliyor?\" → Profilleri yönet; avatar, ad, tür ve PIN tek ekranda.",
-      "Listelerim: birden çok liste, aynı anda biri kullanılır (\"Bunu kullan\"); liste her gün kendiliğinden güncellenir.",
-      "Ana ekranın sol altındaki Yenile kalktı; yalnız bir sorun olunca (liste güncellenemedi, abonelik bitiyor) uyarı çıkar."
+      "Çocuk izinleri de yeni tasarımda: tam ekran, Canlı/Film/Dizi sekmeleri, harf gruplu kutular, OK ile aç/kapat."
     ],
     "en": [
-      "New Settings: full screen with categories on the left (Profiles, Parental, Lists, Playback, General, About), far less text.",
-      "Netflix-style profile management: Who's watching? → Manage profiles; avatar, name, type and PIN on one screen.",
-      "My lists: several lists, one in use at a time (\"Use this\"); the list refreshes itself daily.",
-      "The Refresh block on the home screen is gone; a notice appears only when something is wrong (list couldn't refresh, subscription ending)."
+      "Kids permissions use the new design too: full screen, Live/Movie/Series tabs, lettered tiles, OK toggles."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v63/Moonrise-63.dm",
-  "dmSha256": "b38d2d933884bda3927c55738946de3730c9cc288b86b6723abb27d3ebdd929c"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v64/Moonrise-64.dm",
+  "dmSha256": "f19fe5ee555a54acf6c13e3c134774dd62ae7d9400d203062b6044e92fdcf9b9"
 }
