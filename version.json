@@ -1,20 +1,22 @@
 {
-  "versionCode": 64,
+  "versionCode": 65,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v64/Moonrise-64.apk",
-  "sha256": "45f00b92bb572145aa1b3d7b5d4995dfaef864d3fe03a211ce28d133e2d3e144",
-  "size": 4727304,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v65/Moonrise-65.apk",
+  "sha256": "11ce8e0a6d68fff4463f67a495ba16abb30de41c42afa4ff47156b1fcf7e75dd",
+  "size": 4905436,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Çocuk izinleri de yeni tasarımda: tam ekran, Canlı/Film/Dizi sekmeleri, harf gruplu kutular, OK ile aç/kapat."
+      "Web'den yönetim: Ayarlar → Hakkında → Cihaz kodu. Telefonla QR'ı okut, TV'de çıkan sayıyı onayla; artık listeyi telefondan ya da bilgisayardan ekleyebilirsin (şifre yalnız bu TV'ye şifreli gider).",
+      "Moonrise erken erişim döneminde ücretsiz; cihaz ilk açılışta kendiliğinden kaydolur."
     ],
     "en": [
-      "Kids permissions use the new design too: full screen, Live/Movie/Series tabs, lettered tiles, OK toggles."
+      "Manage from the web: Settings → About → Device code. Scan the QR with your phone and confirm the number on the TV; you can then add lists from your phone or computer (the password travels encrypted to this TV only).",
+      "Moonrise is free during early access; the device registers itself on first launch."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v64/Moonrise-64.dm",
-  "dmSha256": "f19fe5ee555a54acf6c13e3c134774dd62ae7d9400d203062b6044e92fdcf9b9"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v65/Moonrise-65.dm",
+  "dmSha256": "e485caafb6ee5c131c6455ad1811b27d581b4da13c5b0c3005bb380b36ec0993"
 }
