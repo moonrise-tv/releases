@@ -1,20 +1,20 @@
 {
-  "versionCode": 66,
+  "versionCode": 67,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v66/Moonrise-66.apk",
-  "sha256": "5d744e4776e197a4093edf217ebae52c3918bc9193ead54743ad3fd8f8bbe71f",
-  "size": 4905516,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v67/Moonrise-67.apk",
+  "sha256": "9e3e6fc366d4287a61fecfb94835e1aa55b6669088c6927e820e2d1be96e6f5c",
+  "size": 4905660,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Web sitesi artık moonrisetv.app adresinde; cihaz kodu QR'ı da oraya gider."
+      "Filmi duraklatıp devam ettirince görüntünün birkaç saniyede bir durması ve sesin kayması düzeltildi."
     ],
     "en": [
-      "The website now lives at moonrisetv.app; the device code QR points there."
+      "Fixed video stalling every few seconds and audio drifting out of sync after pausing and resuming a movie."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v66/Moonrise-66.dm",
-  "dmSha256": "638084e27fe51761f3ff75fa4ad73f698be92c557c8c5657fad62fa64cf1da9e"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v67/Moonrise-67.dm",
+  "dmSha256": "7ae35441abe0376baa9b10cad52d8c1f2b865275805924a346140d4ac65b4e5a"
 }
