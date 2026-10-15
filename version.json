@@ -1,20 +1,20 @@
 {
-  "versionCode": 67,
+  "versionCode": 70,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v67/Moonrise-67.apk",
-  "sha256": "9e3e6fc366d4287a61fecfb94835e1aa55b6669088c6927e820e2d1be96e6f5c",
-  "size": 4905660,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v70/Moonrise-70.apk",
+  "sha256": "6d50e48dac98b84bb8db2ac6bf8065022fa81556fbf1fe587ff1d0979b7f9d1c",
+  "size": 4905652,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Filmi duraklatıp devam ettirince görüntünün birkaç saniyede bir durması ve sesin kayması düzeltildi."
+      "4K Dolby Vision filmlerde altyazı açıkken görüntünün birkaç saniyede bir takılması düzeltildi."
     ],
     "en": [
-      "Fixed video stalling every few seconds and audio drifting out of sync after pausing and resuming a movie."
+      "Fixed 4K Dolby Vision movies stuttering every few seconds while subtitles are on."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v67/Moonrise-67.dm",
-  "dmSha256": "7ae35441abe0376baa9b10cad52d8c1f2b865275805924a346140d4ac65b4e5a"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v70/Moonrise-70.dm",
+  "dmSha256": "6770c454f91dbecd103793df0ce775186d904df0bd55110b0230f166bdd8a0b8"
 }
