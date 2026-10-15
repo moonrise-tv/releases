@@ -1,20 +1,22 @@
 {
-  "versionCode": 70,
+  "versionCode": 71,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v70/Moonrise-70.apk",
-  "sha256": "6d50e48dac98b84bb8db2ac6bf8065022fa81556fbf1fe587ff1d0979b7f9d1c",
-  "size": 4905652,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v71/Moonrise-71.apk",
+  "sha256": "084f9d6a3eb6e3cfa6876cf5e6db25be05f994f406116ecf6ffa79b92d5a3813",
+  "size": 4905864,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "4K Dolby Vision filmlerde altyazı açıkken görüntünün birkaç saniyede bir takılması düzeltildi."
+      "Uygulama açılırken son izlediğin film ya da dizi kaldığın yerden devam eder (son izlediğin canlı kanalsa o kanal açılır).",
+      "Filmlerde daha fazla önden yükleme: yavaş internette \"Yükleniyor\" daha seyrek çıkar."
     ],
     "en": [
-      "Fixed 4K Dolby Vision movies stuttering every few seconds while subtitles are on."
+      "On launch, the last movie or series you watched resumes where you left off (or the last live channel, if that was last).",
+      "Movies buffer further ahead, so \"Loading\" appears less often on slow connections."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v70/Moonrise-70.dm",
-  "dmSha256": "6770c454f91dbecd103793df0ce775186d904df0bd55110b0230f166bdd8a0b8"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v71/Moonrise-71.dm",
+  "dmSha256": "1393cfb35382c33cd29a0ea996718262e3ebf75440f4a0a2ae25b65eefb2f979"
 }
