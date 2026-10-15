@@ -1,22 +1,20 @@
 {
-  "versionCode": 71,
+  "versionCode": 72,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v71/Moonrise-71.apk",
-  "sha256": "084f9d6a3eb6e3cfa6876cf5e6db25be05f994f406116ecf6ffa79b92d5a3813",
-  "size": 4905864,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v72/Moonrise-72.apk",
+  "sha256": "b5d15424ef1d4a2efad697d789911fe33137f2fd5976b33c9b5c265561a6612b",
+  "size": 4905904,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
     "tr": [
-      "Uygulama açılırken son izlediğin film ya da dizi kaldığın yerden devam eder (son izlediğin canlı kanalsa o kanal açılır).",
-      "Filmlerde daha fazla önden yükleme: yavaş internette \"Yükleniyor\" daha seyrek çıkar."
+      "Altyazılar ekranda bir satır daha aşağıda gösteriliyor."
     ],
     "en": [
-      "On launch, the last movie or series you watched resumes where you left off (or the last live channel, if that was last).",
-      "Movies buffer further ahead, so \"Loading\" appears less often on slow connections."
+      "Subtitles now sit one line lower on screen."
     ]
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v71/Moonrise-71.dm",
-  "dmSha256": "1393cfb35382c33cd29a0ea996718262e3ebf75440f4a0a2ae25b65eefb2f979"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v72/Moonrise-72.dm",
+  "dmSha256": "0cddc8829cca9d32fc3df799e4ab995050ccb8263394f4bb0ff832eb6fcaa9d4"
 }
