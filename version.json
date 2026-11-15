@@ -1,20 +1,16 @@
 {
-  "versionCode": 72,
+  "versionCode": 73,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v72/Moonrise-72.apk",
-  "sha256": "b5d15424ef1d4a2efad697d789911fe33137f2fd5976b33c9b5c265561a6612b",
-  "size": 4905904,
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v73/Moonrise-73.apk",
+  "sha256": "bc5d256cba4165e6795c7ca0fba8f8c3597955978c92f414091da6ae498c8dea",
+  "size": 4921912,
   "minSupported": 0,
   "rollout": 100,
   "notes": {
-    "tr": [
-      "Altyazılar ekranda bir satır daha aşağıda gösteriliyor."
-    ],
-    "en": [
-      "Subtitles now sit one line lower on screen."
-    ]
+    "tr": [],
+    "en": []
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v72/Moonrise-72.dm",
-  "dmSha256": "0cddc8829cca9d32fc3df799e4ab995050ccb8263394f4bb0ff832eb6fcaa9d4"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v73/Moonrise-73.dm",
+  "dmSha256": "5f59da054334183ed9cc9438f0a3c761102e3a022f03965747b298af6936b76a"
 }
