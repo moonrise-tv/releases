@@ -1,8 +1,8 @@
 {
-  "versionCode": 74,
+  "versionCode": 75,
   "versionName": "0.1.0",
-  "apk": "https://github.com/moonrise-tv/releases/releases/download/v74/Moonrise-74.apk",
-  "sha256": "c916c25db8becfe1a07675364193d5a97fd4c33706af74cc218db89bc2c16687",
+  "apk": "https://github.com/moonrise-tv/releases/releases/download/v75/Moonrise-75.apk",
+  "sha256": "9b26c97937b268f703d48fc80e8e865e91b5fe120ac358242005126d2b834611",
   "size": 4921916,
   "minSupported": 0,
   "rollout": 100,
@@ -11,6 +11,6 @@
     "en": []
   },
   "manifestUrl": null,
-  "dm": "https://github.com/moonrise-tv/releases/releases/download/v74/Moonrise-74.dm",
-  "dmSha256": "decd8914040aacaf892d15987cc4bb4bf636f7075849aec690248377b6e58bb4"
+  "dm": "https://github.com/moonrise-tv/releases/releases/download/v75/Moonrise-75.dm",
+  "dmSha256": "b18958b6efbd833db212c44297b8f382507be9e1dfc34201e0213af710974c85"
 }
